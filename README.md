@@ -43,9 +43,9 @@ Feel free to contribute/update.
 37. [Window](#window)
 
 <a href="about"></a>
-# About
+## About
 
-  about:view-release-notes
+    about:view-release-notes
 
 <a href="application"></a>
 ## Application
@@ -102,7 +102,7 @@ Feel free to contribute/update.
     autocomplete-plus:page-up
 
 <a href="autoflow"></a>
-# Autoflow
+## Autoflow
 
     autoflow:reflow-selection
 
@@ -164,7 +164,7 @@ Feel free to contribute/update.
     core:undo
 
 <a href="deprecation"></a>
-# Deprecation Cop
+## Deprecation Cop
 
     deprecation-cop:view
 
@@ -261,7 +261,7 @@ Feel free to contribute/update.
     editor:upper-case
 
 <a href="encoding"></a>
-# Encoding Selector
+## Encoding Selector
 
     encoding-selector:show
 
@@ -308,22 +308,22 @@ Feel free to contribute/update.
     git-diff:toggle-diff-list
 
 <a href="gotoline"></a>
-# Go To Line
+## Go To Line
 
     go-to-line:toggle
 
 <a href="grammar"></a>
-# Grammar Selector
+## Grammar Selector
 
     grammar-selector:show
 
 <a href="incompatible"></a>
-# Incompatible Packages
+## Incompatible Packages
 
     incompatible-packages:view
 
 <a href="keybinding"></a>
-# Keybinding Resolver
+## Keybinding Resolver
 
     key-binding-resolver:toggle
 
@@ -335,7 +335,7 @@ Feel free to contribute/update.
     line-ending-selector:show
 
 <a href="link"></a>
-# Link
+## Link
 
     link:open
 
@@ -441,12 +441,12 @@ Feel free to contribute/update.
     snippets:show
 
 <a href="status"></a>
-# Status Bar
+## Status Bar
 
     status-bar:toggle
 
 <a href="style"></a>
-# Style Guide
+## Style Guide
 
     styleguide:show
 
@@ -475,7 +475,7 @@ Feel free to contribute/update.
     tabs:split-up
 
 <a href="timecop"></a>
-# Timecop
+## Timecop
 
     timecop:view
 
@@ -516,12 +516,12 @@ Feel free to contribute/update.
     tree-view:unfocus
 
 <a href="update"></a>
-# Update Package Dependencies
+## Update Package Dependencies
 
     update-package-dependencies:update
 
 <a href="welcome"></a>
-# Welcome
+## Welcome
 
     welcome:show
 
